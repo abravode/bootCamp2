@@ -1,0 +1,25 @@
+package com.everis.bootcamp;
+
+import org.joda.time.DateTime;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	DateTime dt = new DateTime();
+		
+    	// Obtener el día de la semana
+    	int dayOfWeek = dt.getDayOfYear();
+    			
+    	// Obtener el mes
+    	int monthOfYear = dt.getMonthOfYear();
+    			
+    	// Obtener el año
+    	int year = dt.getYear();
+        System.out.print(dayOfWeek);
+    }
+}
