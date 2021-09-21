@@ -10,7 +10,7 @@
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <jodatime-version>2.10.10</jodatime-version> 
+    <jodatime-version>1.6</jodatime-version> 
   </properties>
   <dependencies>
     <dependency>
@@ -22,7 +22,7 @@
     <dependency>
 	    <groupId>joda-time</groupId>
 	    <artifactId>joda-time</artifactId>
-	    <version>1.6</version>
+	    <version>${jodatime-version}</version>
 	</dependency>
   </dependencies>
 </project>
