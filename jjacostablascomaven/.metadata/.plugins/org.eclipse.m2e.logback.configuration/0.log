@@ -140,3 +140,6 @@
 2021-09-21 08:39:15,947 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\javia\Desktop\EverisBootcamp\mirepositorio\bootCamp2\jjacostablascomaven\taller-maven\src\main\resources
 2021-09-21 08:39:15,948 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-09-21 08:39:15,948 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\javia\Desktop\EverisBootcamp\mirepositorio\bootCamp2\jjacostablascomaven\taller-maven\src\test\resources
+2021-09-21 08:39:24,864 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-09-21 08:39:24,978 [Worker-18: Launching taller-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\javia\Desktop\EverisBootcamp\mirepositorio\bootCamp2\jjacostablascomaven\taller-maven
+2021-09-21 08:39:24,978 [Worker-18: Launching taller-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
