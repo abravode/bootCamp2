@@ -1,5 +1,6 @@
 Manifest-Version: 1.0
-Built-By: stLbe
-Build-Jdk: 16.0.2
+Build-Jdk-Spec: 16
+Implementation-Title: petclinic
+Implementation-Version: 2.5.0-SNAPSHOT
 Created-By: Maven Integration for Eclipse
 
