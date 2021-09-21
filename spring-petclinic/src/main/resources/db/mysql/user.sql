@@ -1,0 +1,7 @@
+CREATE DATABASE IF NOT EXISTS petclinic3;
+
+ALTER DATABASE petclinic3
+  DEFAULT CHARACTER SET utf8
+  DEFAULT COLLATE utf8_general_ci;
+
+GRANT ALL PRIVILEGES ON petclinic.* TO 'petclinic'@'%' IDENTIFIED BY 'petclinic';
